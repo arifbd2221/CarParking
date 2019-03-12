@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Car Parking</string>
+
+    <string name="google_web_client_id">113240048082-r7j2atisgs8f3onpv3b2rmb2ljbd4s6f.apps.googleusercontent.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
